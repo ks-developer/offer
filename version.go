@@ -9,7 +9,7 @@ import (
 const Name = "offer"
 
 // Version is application version
-const Version string = "v0.0.8"
+const Version string = "v0.0.1"
 
 func OutputVersion() string {
 	var buf bytes.Buffer
